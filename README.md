@@ -1,10 +1,11 @@
-### Doofus Adventure — 2D Unity Platformer
+### Doofus Adventure 
 
 Doofus Adventure is a simple 3D platformer game built in Unity.
 The game includes a player character (Doofus), moving enemies (Pulpit), collectibles, UI buttons, and a complete gameplay loop.
 
 This project was created to learn Unity fundamentals and implement core 3D game mechanics step-by-step.
 Here is demo video gameplay
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/ab133cf6-94cf-413b-aab4-b1516f109944" />
 
 [![Watch the Demo Video](https://img.youtube.com/vi/x_0iCjR6-js/0.jpg)](https://youtu.be/x_0iCjR6-js)
 
