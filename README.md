@@ -5,8 +5,8 @@ The game includes a player character (Doofus), moving enemies (Pulpit), collecti
 
 This project was created to learn Unity fundamentals and implement core 3D game mechanics step-by-step.
 Here is demo video gameplay
-<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/ab133cf6-94cf-413b-aab4-b1516f109944" />
 
+👇
 [![Watch the Demo Video](https://img.youtube.com/vi/x_0iCjR6-js/0.jpg)](https://youtu.be/x_0iCjR6-js)
 
 <img width="757" height="470" alt="image" src="https://github.com/user-attachments/assets/90bb7a9c-adbb-4f8d-afce-55006f1d28b0" />
