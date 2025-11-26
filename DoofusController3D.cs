@@ -90,3 +90,4 @@ public class DoofusController3D : MonoBehaviour
         }
     }
 }
+
