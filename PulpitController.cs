@@ -123,3 +123,4 @@ public class PulpitController : MonoBehaviour
         return isBonus ? bonusScoreValue : normalScoreValue;
     }
 }
+
