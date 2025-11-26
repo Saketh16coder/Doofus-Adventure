@@ -21,3 +21,4 @@ public class DoofusDiary
     public PlayerData player_data;
     public PulpitData pulpit_data;
 }
+
